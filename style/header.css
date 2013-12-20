@@ -1,3 +1,30 @@
-* {
-	display: inline-block;
+#header {
+	z-index: 1;
+	background-color: black;
+	height: 3em;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+#home {
+	display:block;
+	float:left;
+	padding-left: 1em;
+}
+
+#navigation li {
+	list-style: none;
+	display: block;
+	float: right;
+	margin: 0 auto;
+	padding-right: 1em;
+}
+
+a {
+	float: right;
+	display: block;
+	text-decoration: none;
+	color: white;
+	font-weight: bold; 
 }

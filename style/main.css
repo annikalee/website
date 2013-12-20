@@ -1,8 +1,22 @@
+* {
+	font-family: Garamond;
+}
+
 #header {
-	z-index: 1; 
-	position: fixed;
+	position: absolute;
 }
 
 body {
 	background-color: #e6e6fa;
+}
+
+#content {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	background-color: #e6e6fa;
+}
+
+#footer {
+	position: fixed;
 }

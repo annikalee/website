@@ -1,0 +1,12 @@
+#footer {
+	background-color: black; 
+	color: white;
+	font-weight: bold;
+	height: 3em;
+	width: 102%;
+	margin-left: -1%; 
+}
+
+#footerContent {
+	text-align: center;
+}
