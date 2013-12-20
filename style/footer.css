@@ -4,9 +4,26 @@
 	font-weight: bold;
 	height: 3em;
 	width: 102%;
-	margin-left: -1%; 
+	margin-left: -1%;
 }
 
 #footerContent {
-	text-align: center;
+	margin-left: -2%;
+}
+
+#footerContent li {
+	list-style: none;
+	display: block;
+	float: left;
+	margin: 0 auto;
+	padding-right: 1em;
+}
+
+#footerContent li a {
+	float: right;
+	display: block;
+	text-decoration: none;
+	color: white;
+	margin: 0 auto;
+	font-weight: bold; 
 }

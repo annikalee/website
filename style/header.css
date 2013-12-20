@@ -2,7 +2,7 @@
 	z-index: 1;
 	background-color: black;
 	height: 3em;
-	width: 100%;
+	width: 101%;
 	top: 0;
 	left: 0;
 }
@@ -11,6 +11,9 @@
 	display:block;
 	float:left;
 	padding-left: 1em;
+	text-decoration: none;
+	color: white;
+	font-weight: bold; 
 }
 
 #navigation li {
@@ -21,7 +24,7 @@
 	padding-right: 1em;
 }
 
-a {
+#navigation li a {
 	float: right;
 	display: block;
 	text-decoration: none;
