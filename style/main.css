@@ -24,13 +24,16 @@
 	position: relative;
 }
 
-#pic {
+.circular {
+	margin-top: 3%;
+	margin-right: 3%;
 	float: right;
-	height: 30%;
-	width: 30%;
-	padding-top: 3%;
-	padding-bottom: 3%;
-	padding-right: 2%;
-	max-width: 250px; 
-	max-height: 250px; 
+	clear: right;
+	width: 250px;
+	height: 250px;
+	border-radius: 125px;
+	-webkit-border-radius: 125px;
+	-moz-border-radius: 125px;
+	background: url(../images/main.png) no-repeat;
+	background-size: 250px;
 }
