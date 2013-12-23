@@ -55,7 +55,7 @@
 
 #explore #link{
 	margin-top: 2%;
-	margin-left: 6%;
+	margin-left: 7%;
 	position: relative;
 	display: inline-block;
 	clear: both;
@@ -72,7 +72,7 @@
 	width: 250px;
 	height: 250px;
 	border-radius: 125px;
-	background-color: #d6c3ff;
+	background-color: #d6c3ff; 
 	-webkit-border-radius: 125px;
 	-moz-border-radius: 125px;
 	text-align:center;
