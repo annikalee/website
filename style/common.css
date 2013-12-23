@@ -6,9 +6,3 @@ body {
 	margin: 0;
 	background-color: #d6c3ff;
 }
-
-#footer {
-	clear: both;
-	position: fixed;
-	bottom: 0;
-}
