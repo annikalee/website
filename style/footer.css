@@ -3,19 +3,20 @@
 	color: white;
 	font-weight: bold;
 	height: 3em;
-	width: 102%;
-	margin-left: -1%;
+	width: 100%;
+	margin: 0;
 }
 
 #footerContent {
-	margin-left: -2%;
+	margin: 0;
+	padding: 1em 0 0 0;
 }
 
 #footerContent li {
 	list-style: none;
 	display: block;
 	float: left;
-	margin: 0 auto;
+	margin: 0;
 	padding-right: 1em;
 }
 

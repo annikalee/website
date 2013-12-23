@@ -2,11 +2,8 @@
 	font-family: Garamond;
 }
 
-#header {
-	position: absolute;
-}
-
 body {
+	margin: 0;
 	background-color: #d6c3ff;
 }
 
